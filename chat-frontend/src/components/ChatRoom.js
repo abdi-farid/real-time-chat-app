@@ -87,7 +87,7 @@ const ChatRoom = ({ username }) => {
   return (
     <div className="chat-container">
       <div className="chat-header text-center p-3 border-bottom">
-        <h2>Spring WebSocket Chat Demo - React</h2>
+        <h2>SpringBoot-React Real Time Chat</h2>
       </div>
       <ul
         className="list-unstyled overflow-auto px-3"
